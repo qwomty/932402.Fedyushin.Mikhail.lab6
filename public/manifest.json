@@ -1,0 +1,21 @@
+{
+  "name": "Каталог книг — PWA",
+  "short_name": "Книги",
+  "description": "Каталог книг с поиском и фильтрацией на Express и поддержкой офлайн-режима",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f1e7",
+  "theme_color": "#f6f1e7",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
