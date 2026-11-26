@@ -1,5 +1,4 @@
 # 932402.Fedyushin.Mikhail.lab6
-# 932402.Fedyushin.Mikhail.lab6
 
 ## Лабораторная работа №6 — «Каталог книг»
 
